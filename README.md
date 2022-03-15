@@ -5,6 +5,11 @@
 **FolderFilesRenamer** is a simple changeable Java Class for renaming folder files according to your needs.<br>
 Just change the body of the method renameFile to the naming scheme you want, compile the class with a suitable classname and execute it on a folder by passing the folder path as the first argument, for example:<br>
 `java EightRandomNumbers pathToFolder`
+<br><br>
+
+## Testing
+The file was tested manually on macOS. I could not find any bugs, but there still may be some.
+<br><br>
 
 ## Get in contact
 Feel free to get in contact and share your experience with **FolderFilesRenamer**. Bug reports are also very appreciated.
